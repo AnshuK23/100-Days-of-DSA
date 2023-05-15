@@ -2,7 +2,7 @@
 
 ## Folder Structure
 * 100-day-dsa-challenge/: contains all the code I write during the challenge.
-*100-day-dsa-challenge/day-1/ to 100-day-dsa-challenge/day-100/: contains the code for each day's problem.
+* 100-day-dsa-challenge/day-1/ to 100-day-dsa-challenge/day-100/: contains the code for each day's problem.
 ## Rules
 * I will write code for a different problem each day for 100 days.
 * Each day, I will write code for at least one problem from the list of problems that I have curated.
