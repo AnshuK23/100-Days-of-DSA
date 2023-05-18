@@ -1,5 +1,6 @@
+// PROBLEM 27 : Remove Element
 
-
+// SOLUTION:
 class Solution {
 
     static int removeElement(int[] nums, int val) {
